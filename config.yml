@@ -1,0 +1,27 @@
+# Créditos xAtlas
+# Discord: xAtlas#0001
+
+# Altere por aqui a motd do servidor!
+Motd:
+  whitelistmotd: "&c&lEste servidor está em manutenção"
+  motd: "     &8&l&m--&b&l&m]--&6&l NESTY&f&lMC &f: &dMinecraft Server &b&l&m-[&8&l&m--&f&l                 VENHA &b&lJOGAR &f&lA FASE &1&lBETA!"
+Player:
+  # Altere aqui a permissão para o player poder dar /manutencao <on, off>
+  permissao: "comando.manutencao"
+  # Altere aqui a mensagem de kick do player!
+  kick_message: "&c&lERRO Você foi kickado do servidor pelo motivo: &b&lMANUTENÇÃO"
+Mensagens:
+  # Altere aqui a mensagem de sem permissao do player!
+  sem_permissao: "&c&lPERMISSAO &fVoce nao tem &c&lPERMISSAO &fpara executar este comando!"
+  # Altere aqui a mensagem caso o player digite o comando sem nenhum argumento
+  comando_errado: "&c&lMANUTENCAO &fUse: /manutencao <on, off>"
+  # Altere aqui a mensagem que será enviada para todos os jogadores via chat que a manutencao foi ativada / desativada
+  ativou_manutencao: "&b&lMANUTENCAO &fA manutencao foi ativada!"
+  desativou_manutencao: "&b&lMANUTENCAO &fA manutencao foi desativada!"
+Title:
+  # Quando for ativa irá enviar uma mensagem na tela do jogador
+  manutencaoativa_title: "&c&lMANUTENCAO"
+  manutencaoativa_subtitle: "&aAtivada com sucesso!"
+  manutencaodesativada_title: "&c&lMANUTENCAO"
+  manutencaodesativada_subtitle: "&cDesativada com sucesso!"
+  

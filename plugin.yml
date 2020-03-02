@@ -1,0 +1,6 @@
+author: xAtlas
+version: 0.0.1
+name: xAtlasMotd
+main: br.com.atlas.Main
+commands:
+  manutencao:
